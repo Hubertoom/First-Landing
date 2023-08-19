@@ -10,9 +10,8 @@ body {
 header {
     display: flex;
     align-items: center;
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, .33);
     min-height: 10vh;
-    opacity: .33;
 }
 
 main {
@@ -21,12 +20,12 @@ main {
 
 footer {
     min-height: 30vh;
-    background-color: #fff;
-    opacity: .66;
+    background-color: rgba(255, 255, 255, .33);
 }
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 nav {
@@ -114,23 +113,12 @@ footer {
     min-width: 100%;
 }
 
-#contact-col1 > a {
+#contact-col1 > a{
     margin: 1% auto .5% 14%;
-
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.copy {
+    margin-bottom: -.8rem;
+    margin-left: 1rem;
+    font-size: 1rem;
+}
