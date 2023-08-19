@@ -8,5 +8,6 @@ The page was created using flexbox. You can jump over the page using anchors. <b
 Don't forget to sign up in the form! <br/>
 
 How to run it?
-Just click on the link below!
+Just click on the link below! <br/>
+
 https://hubertoom.github.io/First-Landing/
