@@ -73,7 +73,6 @@ nav {
     overflow: hidden;
     font-size: 1.2rem;
     font-weight: 650;
-    color: whitesmoke;
 }
 
 [id^="col"] > div {
@@ -92,9 +91,7 @@ footer {
 #contact {
     width: 100%;
     display: flex;
-    /*flex-wrap: wrap;*/
     flex-wrap: nowrap;
-    /*has to be wrap to pass the test, but destroy all alignment*/
     font-size: 1.5rem
 }
 
@@ -130,6 +127,7 @@ h5 {
     font-size: inherit;
     color: whitesmoke;
 }
+
 #contact-form {
     width: 50%;
     display: flex;
