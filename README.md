@@ -1,6 +1,6 @@
-#First Landing
+##First Landing
 
-## About the project
+# About the project
 A real-life example of a Landing Page.
 The purpose of the project is to use in practice some properties of HTML and CSS <br/>
 including tags which come to play with HTML5. <br/>
