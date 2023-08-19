@@ -4,7 +4,7 @@ body {
     background: linear-gradient(107deg, rgba(95, 138, 196, 1) 0%, rgba(98, 110, 156, 1) 41%,
     rgba(113, 107, 159, 0.01451918658088236) 56%, rgba(155, 98, 167, 1) 66%, rgba(94, 111, 155, 1) 66%);
     font-family: arial, sans-serif;
-    /*background-attachment: fixed;*/
+    background-attachment: fixed;
 }
 
 header {
